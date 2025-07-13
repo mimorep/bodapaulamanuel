@@ -2396,6 +2396,9 @@ fieldset:disabled a.btn {
   color: #fff;
   background-color: #e39ca0;
   border-color: #e39ca0;
+  font-family: 'customWebFont_M';
+  font-weight: 50 !important;
+  font-size: large;
 }
 
 .btn-primary:hover {
